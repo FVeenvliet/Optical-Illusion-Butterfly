@@ -1,7 +1,8 @@
-# Veenvliet FP Challenge 1 — Creative Programming Assignment
+# Veenvliet FP Challenge 1 - Creative Programming Assignment
 
-**Author:** Femke Veenvliet (student ID: 1701452)  
+**Author:** Femke Veenvliet  
 **Course:** DBB100 Creative Programming  
+**Credentials:** Department of Industrial Design, Eindhoven University of Technology
 **Date:** 09/03/2026  
 **Output format:** PDF (`Veenvliet_FP_challenge1`)
 
@@ -18,6 +19,7 @@ The work explores:
 
 This is an updated version of a piece originally submitted in 2022. In this iteration, the flower design was fully redesigned, the codebase was restructured for readability and extensibility, and most hard-coded values were replaced with loops and reusable components.
 
+![Image of the final output.](https://github.com/FVeenvliet/Optical-Illusion-Butterfly/blob/main/Veenvliet_FP_challenge1.jpg?raw=true)
 ---
 
 ## Sketch Overview
